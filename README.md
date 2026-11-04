@@ -11,7 +11,7 @@ Análisis estático y deobfuscación de una muestra del troyano modular **Loapi*
 *   **Clasificación:** Troyano Modular / Dropper (Loapi)
 *   **Peligrosidad:** ⚠️ 9/10
 *   **Hash SHA-256:** `6f28c82d3120616393b797a3589736fbeecc5eef45d3bb364e857cfc4a27e66e`
-*   **Documentación:** [loapi-trojan-antivirus.pdf](../../papers/loapi-trojan-antivirus.pdf)
+*   **Documentación:** [loapi-trojan-antivirus.pdf](https://zenodo.org/records/23937756)
 
 ---
 
